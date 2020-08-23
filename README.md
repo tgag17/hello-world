@@ -1,5 +1,4 @@
 # hello-world
 
-hi everyone!
-
-I have had tacos on the moon and they are far better than earth tacos.
+Hi everyone!
+This is my first attempt and repo in an open source community.
